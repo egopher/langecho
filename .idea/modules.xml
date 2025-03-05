@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/langvector.iml" filepath="$PROJECT_DIR$/langvector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/langecho.iml" filepath="$PROJECT_DIR$/langecho.iml" />
     </modules>
   </component>
 </project>
